@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Word to PDF Converter</title>
+  <link rel="stylesheet" href="style.css"/>
+  <script defer src="script.js"></script>
+</head>
+<body>
+  <!-- Navbar -->
+  <header class="navbar">
+    <div class="container">
+      <h1 class="logo">Word<span class="highlight">To</span>PDF</h1>
+    </div>
+  </header>
+
+  <!-- Main Section -->
+  <main class="main-container">
+    <div class="upload-box">
+      <h2>Convert Word to PDF Online</h2>
+      <p>Easily convert Word documents to PDF format online.</p>
+
+      <input type="file" id="fileInput" accept=".doc,.docx" hidden />
+      <label for="fileInput" class="file-label" id="fileLabel">Choose File</label>
+
+      <button id="convertBtn" disabled>Convert File</button>
+
+      <div id="message"></div>
+    </div>
+  </main>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <hr />
+    <p>Copyright © 2024 - All rights reserved by ACME Industries Ltd</p>
+  </footer>
+</body>
+</html>
