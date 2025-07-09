@@ -37,6 +37,6 @@ A simple and responsive Convertor App built using **HTML**, **CSS**, and **JavaS
 
 ### 🖥️ Desktop View
 
-![Convertor App Screenshot](./assets/screenshot.png)
+![Convertor App Screenshot](wt.png)
 
 
