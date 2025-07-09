@@ -19,13 +19,13 @@ A simple and responsive Convertor App built using **HTML**, **CSS**, and **JavaS
 ## 📁 Folder Structure
 
 convertor-app/
-
+```
 ├── index.html
 ├── style.css
 ├── script.js
 ├── README.md
 └── wt.png
-
+```
 
 
 ## 🚀 How to Run Locally
