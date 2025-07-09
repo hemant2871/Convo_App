@@ -18,7 +18,7 @@ A simple and responsive Convertor App built using **HTML**, **CSS**, and **JavaS
 
 ## 📁 Folder Structure
 
-### convertor-app/
+convertor-app/
 ├── index.html
 ├── style.css
 ├── script.js
