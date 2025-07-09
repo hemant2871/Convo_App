@@ -46,11 +46,9 @@ convertor-app/
 ##📬 Contact
 Feel free to connect with me:
 
-### 🔗 GitHub: 
- [Hemant](https://github.com/hemant2871)
+🔗 GitHub: [Link](https://github.com/hemant2871)
 
-### 💼 LinkedIn: 
- [Hemant](http://www.linkedin.com/in/hemant-sharma-3135b4290)
+💼 LinkedIn: [Link](http://www.linkedin.com/in/hemant-sharma-3135b4290)
 
 
 
