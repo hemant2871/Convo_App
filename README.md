@@ -18,10 +18,13 @@ A simple and responsive Convertor App built using **HTML**, **CSS**, and **JavaS
 
 ## 📁 Folder Structure
 
-📦 convertor-app/
-├── 📄 index.html
-├── 📄 style.css
-└── 📄 script.js
+### convertor-app/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── wt.png
+
 
 
 ## 🚀 How to Run Locally
@@ -38,5 +41,15 @@ A simple and responsive Convertor App built using **HTML**, **CSS**, and **JavaS
 ### 🖥️ Desktop View
 
 ![Convertor App Screenshot](wt.png)
+
+##📬 Contact
+Feel free to connect with me:
+
+### 🔗 GitHub: 
+ [Hemant](https://github.com/hemant2871)
+
+### 💼 LinkedIn: 
+ [Hemant](http://www.linkedin.com/in/hemant-sharma-3135b4290)
+
 
 
